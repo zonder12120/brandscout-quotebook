@@ -30,6 +30,8 @@ REST API сервис для управления цитатами с возмо
 Хэндлер, сервсис и in-memory cache покрыты тестами.  
 Структуру проекта реализовывал опираясь на https://github.com/golang-standards/project-layout/
 
+Для упрощения проверки я написал простой autofill: https://github.com/zonder12120/quotebook-autofill
+
 ### Запуск
 
 #### Требования
